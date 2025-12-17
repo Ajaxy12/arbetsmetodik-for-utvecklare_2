@@ -233,8 +233,6 @@ Projektet demonstrerar praktisk tillämpning av agila metoder och visar hur Scru
 
 ### Dokumentation (skickas via skolplattformen)
 - **PERSONAS_A4.md:** Tre personas med detaljerad information
-- **USER_STORIES_A4.md:** Komplett lista över alla 21 user stories
-- **SPRINT_PLANNING_A4.md:** Sprintplanering och reviews
 - **SPRINT_RETROSPECTIVE_A4.md:** Retrospective-anteckningar
 - **FIGMA_DESIGN_PROCESS.md:** Designprocessen i Figma
 
