@@ -1,4 +1,4 @@
-# 📊 Grupprapport - Webbshop Projekt (A4-version)
+# 📊 Grupprapport - Webbshop Projekt
 
 **Grupp:** Grupp 8 - teamtröjor.se  
 **Kurs:** Arbetsmetodik för utvecklare 2  
@@ -54,17 +54,17 @@ Projektet planerades ursprungligen för **tre sprints**:
 
 Tack vare förbättrad kommunikation och effektivt samarbete i Sprint 2 slutfördes projektet i **två sprints**:
 
-### Velocity-diagram: Kommunikationens påverkan
+### Velocity-diagram:
 
 ```
 PLANERAD VELOCITY (3 Sprints)          FAKTISK VELOCITY (2 Sprints)
 ══════════════════════════════          ════════════════════════════
 
-Sprint 1: ████████ 5 US                 Sprint 1: ████████ 5 US
-Sprint 2: ████████████████ 16 US        Sprint 2: ██████████████ 13 US
-Sprint 3: ████████████████ 16 US        (inkl. alla från planerad Sprint 3)
+Sprint 1: ████████████ 8 US            Sprint 1: ████████████ 8 US
+Sprint 2: ████████████ 8 US             Sprint 2: ██████████████ 13 US
+Sprint 3: █████ 5 US                   (inkl. alla från planerad Sprint 3)
 ────────────────────────────────        ────────────────────────────────
-Totalt:   37 user stories               Totalt:   18 user stories (slutförda)
+Totalt:   21 user stories               Totalt:   21 user stories (slutförda)
 Tid:      3 sprints                     Tid:      2 sprints
                                         ════════════════════════════
                                         ⚡ 33% snabbare leverans!
@@ -79,14 +79,14 @@ Sprint 1 (Låg kommunikation):          Sprint 2 (Förbättrad kommunikation):
 ❌ Få standups                          ✅ Regelbundna check-ins
 ❌ Otydlig planering                    ✅ Tydlig planering
 ────────────────────────────────        ────────────────────────────────
-Velocity: ████░░░░ 5 US                 Velocity: ████████████ 13 US
-Effektivitet: 60%                       Effektivitet: 95%
+Velocity: ████████░░ 8 US               Velocity: ████████████ 13 US
+Effektivitet: 70%                       Effektivitet: 95%
 ═══════════════════════════════════════════════════════════════════
 
 SLUTSATS:
 ═══════════════════════════════════════════════════════════════════
 Förbättrad kommunikation i Sprint 2 ledde till:
-  • ≈ 3x högre velocity (5 → 13 user stories)
+  • ≈ 1.6x högre velocity (8 → 13 user stories)
   • 33% snabbare projektleverans (3 → 2 sprints)
   • Bättre samarbete och flow
   • Färre missförstånd och omarbetningar
@@ -97,10 +97,10 @@ Förbättrad kommunikation i Sprint 2 ledde till:
 
 **Sprintmål:** Etablera projektgrunden med personas, user stories och börja designa startsidan och shop-sidan.
 
-**Levererade User Stories (5):**
-- **Hosein:** Lägga i varukorg, Filtrering/sortering
-- **Samira:** Varukorgsöversikt, Kategorivy, Lista med alla fraktalternativ till checkout*
-- **William:** Startsida med extrapriser, Produktsida
+**Levererade User Stories (8):**
+- **William:** Startsida med kampanjvaror, Produktsida med detaljerad information
+- **Samira:** Fraktalternativ*, Varukorgsöversikt, Kategorivy (alla lag som har tröjor)
+- **Hosein:** Lägga i varukorg, Filtrering/sortering i alla vyer
 - **Amir:** Vyn som visar alla produkter i olika kategorier med sökfunktion och kategorifiltrering via tag-filtren
 
 *Fraktalternativ flyttades till Samira eftersom den ingick i hennes sida (checkout). Den hände i mitten av två studenters arbete, och gruppen valde att Samira skulle inkludera det i hennes arbete för bättre sammanhållning.
@@ -163,9 +163,9 @@ Kompletta mockups skapades för 9 sidor:
 
 ### 5.4 Sprint Velocity
 
-**Planerat:** 3 sprints (Sprint 1: 5 user stories, Sprint 2: 16 user stories, Sprint 3: planerad men inte genomförd)
+**Planerat:** 3 sprints (Sprint 1: 8 user stories, Sprint 2: 8 user stories, Sprint 3: 5 user stories - planerad men inte genomförd)
 
-**Faktiskt:** 2 sprints (Sprint 1: 5 user stories ✅, Sprint 2: 13 user stories inklusive alla från planerad Sprint 3 ✅)
+**Faktiskt:** 2 sprints (Sprint 1: 8 user stories ✅, Sprint 2: 13 user stories inklusive alla från planerad Sprint 3 ✅)
 
 **Slutsats:** Tack vare förbättrad kommunikation och samarbete i Sprint 2 kunde vi slutföra projektet i två sprints istället för tre.
 
@@ -229,12 +229,7 @@ Projektet demonstrerar praktisk tillämpning av agila metoder och visar hur Scru
 
 ---
 
-## 9. Bilagor
-
-### Dokumentation (skickas via skolplattformen)
-- **PERSONAS_A4.md:** Tre personas med detaljerad information
-- **SPRINT_RETROSPECTIVE_A4.md:** Retrospective-anteckningar
-- **FIGMA_DESIGN_PROCESS.md:** Designprocessen i Figma
+## 9. Bilagor/Länkar
 
 ### Externa Länkar
 - **Trello Kanban Board:** https://trello.com/b/RXjZ48dw/webbshop-grupp-8
