@@ -1,115 +1,164 @@
-# 🎯 Webbshop Project - Kanban Board
+# 🚀 Kanban Board - Webbshop Projekt (A4-version)
 
-**Grupp:** Grupp 8
-## 📄 Page Structure Overview
+**Grupp:** Grupp 8  
+**Kurs:** Arbetsmetodik för utvecklare 2  
+**Datum:** 2025-12-11
 
-**Totalt antal sidor som behövs: 9 sidor**
+---
 
-1. **Startsida** - Publik
-2. **Shop-sida** - Publik
-3. **Produktdetaljsida** - Publik
-4. **Varukorgssida** - Publik
-5. **Checkout-sida** - Publik
-6. **Inloggningssida** - Publik
-7. **Admin-sida** - Skyddad (Sara)
-8. **Butiksägarens sida** - Skyddad (Oliver)
-9. **Customer history page** - Skyddad
+## 📋 Översikt
 
-## 📋 Product Backlog
-**[🏃 Sprint Backlog](#-sprint-backlog-aktuell-sprint)** - User stories valda för aktuell sprint
+Vi använder en Kanban board i markdown-format (istället för Trello) för att visualisera arbetsflödet och spåra framsteg. Boarden är versionerad i Git tillsammans med resten av projektet.
 
+## 📄 Sidstruktur
 
-*All user stories prioritized by value*
+**Totalt antal sidor: 7 sidor**
+1. Startsida (US-01, US-02, US-03)
+2. Shop-sida (US-04, US-05, US-06)
+3. Produktdetaljsida (US-07)
+4. Varukorgssida (US-09, US-10, US-11, US-12)
+5. Checkout-sida (US-13, US-14, US-15, US-16, US-17)
+6. Admin-sida (US-18, US-19) - Skyddad (Sara)
+7. Butiksägarens sida (US-20, US-21, US-22, US-23) - Skyddad (Oliver)
+
+**Navigation:** Desktop header menu | Mobile hamburger menu (☰)
+
+---
+
+## 🎯 Kanban Board Struktur
+
+### Kolumner
+
+1. **Product Backlog** - Alla 21 user stories prioriterade efter värde
+2. **Sprint Backlog** - User stories valda för aktuell sprint
+3. **Doing** - Arbete som pågår just nu
+4. **Test** - Klart arbete som väntar på testning/granskning
+5. **Done** - Slutfört och accepterat arbete (uppdelat per sprint)
+
+---
+
+## 📊 Product Backlog Status
+
+**Totalt:** 21 user stories
+
+| Prioritet | Antal | Status |
+|-----------|-------|--------|
+| 🔴 Hög | 10 | Ej påbörjad |
+| 🟡 Medel | 6 | Ej påbörjad |
+| 🟢 Lägre | 5 | Ej påbörjad |
+
+**Vad betyder "Ej påbörjad"?**
+- Alla user stories är planerade och dokumenterade men arbetet har inte startat ännu
+- Projektet är i förberedelsfasen - vi har skapat personas, user stories och planerat strukturen
+- User stories kommer att flyttas till Sprint Backlog när Sprint 1 startar och sprintplanering genomförs
+- Statusen uppdateras när vi faktiskt börjar arbeta med user stories under sprintarna
+
+**Fördelning per Funktionsområde:**
+- Startsida: 3 user stories
+- Shop-sida: 4 user stories (inkl. sökning och produktdetaljer)
+- Varukorg: 4 user stories
+- Checkout: 5 user stories
+- Admin: 2 user stories
+- Försäljningsstatistik: 3 user stories
+
+---
+
+## 🏃 Sprint Backlog (Aktuell Sprint)
+
+**Sprint 1:** Utveckling (Tor 11/12 - Tis 16/12)
+
+**Sprintmål:** Etablera projektgrunden med personas, user stories och börja designa startsidan och shop-sidan.
+
+### Valda User Stories för Sprint 1 (8 user stories):
+- **US-01:** Startsida - Välkomsttext och bild (Johan)
+- **US-02:** Startsida - Inloggningsruta (Johan)
+- **US-03:** Startsida - Tre utvalda produkter (Johan)
+- **US-04:** Shop-sida - Navigation (Alla personas)
+- **US-05:** Shop-sida - Kategorier (Johan)
+- **US-06:** Shop-sida - Fritextsökning (Johan)
+- **US-07:** Produktdetaljer (Johan)
+- **US-08:** Lägga i varukorg (Johan)
+
+**Status:** User stories är valda och redo för Sprint 1. Tasks definierade för varje user story.
+
+---
+
+## 🚧 Doing (Pågående arbete)
+
+*Flytta user stories hit när arbetet påbörjas*
+
+**Varför är Doing tom?**
+- Projektet har inte startat ännu - vi är i förberedelsfasen
+- När Sprint 1 startar och vi börjar arbeta med user stories, flyttas de hit
+- Doing-kolumnen visar vilka user stories som arbetas med just nu
+- Uppdateras dagligen under daily scrum
+
+---
+
+## 🧪 Test (Under testning)
+
+*Flytta user stories hit när de är redo för testning*
+
+**Varför är Test tom?**
+- Projektet har inte startat ännu - inga user stories är klara för testning
+- När en user story är implementerad (mockup klar) flyttas den hit för granskning
+- Test-kolumnen visar arbete som väntar på verifiering/granskning
+- Efter granskning flyttas user stories till Done
+
+---
+
+## ✅ Done (Slutfört)
+
+### Sprint 1
+*[Fylls i när user stories är klara]*
+
+**Varför är Done tom?**
+- Projektet har inte startat ännu - inga user stories är slutförda
+- När en user story är helt klar, testad och godkänd flyttas den hit
+- Done-kolumnen visar slutfört arbete per sprint
+- Uppdateras kontinuerligt när user stories slutförs
+
+---
+
+## 📊 Sprint Statistics
+
+| Sprint | Start | Slut | Planerade | Slutförda |
+|--------|-------|------|-----------|-----------|
+| Sprint 1 | Tor 11/12 | Tis 16/12 | 8 | 0 |
+| Sprint 2 | Tis 16/12 | Sön 28/12 | 13 | 0 |
 
 **Status:**
-- Product Backlog innehåller alla 21 user stories prioriterade efter värde (Hög, Medel, Lägre)
-- Alla 21 user stories är slutförda (Done)
-- **Sprint 1 slutförda:** 5 user stories (Startsida, Produktsida, Fraktalternativ, Produkter i kategorier, Lägga i varukorg)
-- **Sprint 2 slutförda:** 13 user stories (alla övriga funktioner inklusive checkout, admin och ägarens dashboard)
-
-### 🔴 High Priority (10 user stories)
-
-- [x] Kunden Johan vill se en överblick på kampanjvaror på startsidan *(Sprint 1 - Done)*
-- [x] Kunden Johan vill kunna klicka in på en specifik produkt *(Sprint 1 - Done)*
-- [x] Kunden Johan vill se en lista med olika fraktalternativ *(Sprint 1 - Done)*
-- [x] Kunden Johan vill kunna se alla produkter i olika kategorier, söka i sökfältet och filtrera kategorier genom att klicka på tag-filtren högst upp på sidan, så att han snabbt kan hitta sitt favoritlag (Amir) *(Sprint 1 - Done)*
-- [x] Kunden Johan vill kunna lägga till produkter i en varukorg *(Sprint 1 - Done)*
-- [x] Kunden Johan vill kunna sortera och filtrera i alla vyer *(Sprint 2 - Done)*
-- [x] Kunden Johan vill kunna se produkterna i sin varukorg *(Sprint 2 - Done)*
-- [x] Kunden Johan vill se alla lag (kategorier) som har tröjor i shoppen *(Sprint 2 - Done)*
-- [x] Kunden Johan vill kunna se en lista med olika betalningsalternativ *(Sprint 2 - Done)*
-- [x] Kunden Johan vill se en summering av sin order *(Sprint 2 - Done)*
-
-### 🟡 Medium Priority (6 user stories)
-
-- [x] Ägaren vill kunna se försäljning per dag (Amir) *(Sprint 2 - Done)*
-- [x] Ägaren vill kunna se produkter som är slut i lager (Amir) *(Sprint 2 - Done)*
-- [x] Ägaren vill kunna se total försäljning (Amir) *(Sprint 2 - Done)*
-- [x] Kunden Johan vill kunna logga in som kund *(Sprint 2 - Done)*
-- [x] Kunden Johan vill kunna spara produkter *(Sprint 2 - Done)*
-- [x] Kunden Johan vill kunna söka bland produkter *(Sprint 2 - Done)*
-
-### 🟢 Lower Priority / Admin (5 user stories)
-
-- [x] Ägaren vill kunna se vilka kategorier som säljer bäst per lag (Amir) *(Sprint 2 - Done)*
-- [x] Admin vill kunna ändra lagersaldo *(Sprint 2 - Done)*
-- [x] Admin vill kunna lägga till nya tröjor *(Sprint 2 - Done)*
-- [x] Admin vill kunna välja ut specifika varor till utförsäljning *(Sprint 2 - Done)*
-- [x] Admin vill kunna ändra pris, text och bild på produkter *(Sprint 2 - Done)*
+- **Sprint 1:** 8 user stories planerade (US-01 till US-08) - Startsida, Shop-navigation och grundläggande funktionalitet
+- **Sprint 2:** 13 user stories planerade (US-09 till US-21) - Varukorg, Checkout, Admin och Försäljningsstatistik
+- **Totalt:** 21 user stories fördelade över 2 sprints
 
 ---
 
-## 🏃 Sprint Backlog
+## 💡 Varför Markdown istället för Trello?
 
-*Current Sprint: Sprint 1 - Development (Thu 11/12 - Tue 16/12)*
+**Fördelar:**
+- ✅ Versionshantering i Git
+- ✅ Lätt att dokumentera och kommentera
+- ✅ Fungerar bra med GitHub
+- ✅ Ingen extern tjänst behövs
+- ✅ Kan inkluderas i projektrapporter
 
-### Sprint Goal
-Etablera projektgrunden med personas, user stories och börja designa startsidan och shop-sidan.
-
-### Selected User Stories for Sprint 1
-
-- [ ] Som kund (Johan) vill jag kunna se startsidan med välkomsttext, så att jag förstår vad webbshoppen erbjuder
-  - [ ] Skriv välkomsttext (max 2-3 meningar)
-  - [ ] Välj/skapa bild som representerar FootyShop (fotbollströjor)
-  - [ ] Placera text och bild på mockup-startsidan
-  - [ ] Testa att det ser bra ut på olika skärmstorlekar
-  - **Persona:** Johan Edberg (Kund)
-  - **Priority:** 🔴 High
-
-- [ ] Som kund vill jag kunna logga in med användarnamn och lösenord, så att jag kan komma åt min profil
-  - [ ] Design inloggningsformulär med tydliga fält
-  - [ ] Placera på startsidan mockup (höger övre hörnet)
-  - [ ] Lägg till "Glömt lösenord?"-länk (visuellt)
-  - [ ] Se till att formuläret ser användarvänligt ut
-  - **Persona:** Johan Edberg (Kund)
-  - **Priority:** 🔴 High
-
-- [ ] Som kund (Johan) vill jag kunna se tre utvalda produkter på startsidan, så att jag snabbt kan se populära produkter
-  - [ ] Välj tre populära fotbollströjor (t.ex. Manchester United, Barcelona, Retro)
-  - [ ] Hitta/skapa produktbilder
-  - [ ] Design produktkort med bild, pris och titel
-  - [ ] Placera tre produkter på startsidan mockup
-  - [ ] Se till att de ser attraktiva ut
-  - **Persona:** Johan Edberg (Kund)
-  - **Priority:** 🔴 High
-
-- [x] Kunden Johan vill kunna se alla produkter i olika kategorier, söka i sökfältet och filtrera kategorier genom att klicka på tag-filtren högst upp på sidan, så att han snabbt kan hitta sitt favoritlag (Amir) *(Sprint 1 - Done)*
-  - [x] Design vy som visar produkter i olika kategorier
-  - [x] Skapa shop-sida mockup med kategorier
-  - [x] Implementera sökfunktion i sökfältet
-  - [x] Implementera kategorifiltrering via tag-filtren högst upp på sidan
-  - [x] Se till att kategorier är tydligt separerade
-  - [x] Testa att kategorier är lätt att navigera och att sök/filtrering fungerar
-  - **Persona:** Johan Edberg (Kund)
-  - **Priority:** 🔴 High
-
-- [ ] Som kund (Johan) vill jag kunna se produkter i minst tre kategorier, så att jag kan hitta produkter efter typ
-  - [ ] Definiera tre kategorier (t.ex. Premier League, La Liga, Retrotröjor)
-  - [ ] Välj 5 produkter per kategori
-  - [ ] Design kategori-layout med rubriker
-  - [ ] Placera produkter i kategorier på shop-sidan mockup
-  - [ ] Se till att kategorier är visuellt separerade
-  - **Persona:** Johan Edberg (Kund)
-  - **Priority:** 🔴 High
+**Nackdelar:**
+- ⚠️ Mindre visuellt än Trello
+- ⚠️ Kräver manuell uppdatering (men ger bättre kontroll)
 
 ---
+
+## 🔄 Användning under Projektet
+
+Kanban board används:
+- **Under sprintplanering:** För att välja user stories till sprint backlog
+- **Under sprinten:** För att flytta user stories genom kolumnerna
+- **Under daily scrum:** För att diskutera vad som är i Doing
+- **Under sprint review:** För att visa vad som är i Done
+- **Under sprint retrospective:** För att analysera flödet och identifiera problem
+
+---
+
+*Grupp 8 | Arbetsmetodik för utvecklare 2 | 2025-12-12 (Uppdaterad - Sprint-schema korrigerat till 2 sprints)*
+
