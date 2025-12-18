@@ -10,7 +10,7 @@
 
 Vi har skapat **21 user stories** (överstiger målet på ~20) som täcker alla krav från kravspecifikationen. User stories är kopplade till våra personas och prioriterade efter användarvärde.
 
-**Webbshop:** FootyShop - Fotbollströjebutik
+**Webbshop:** teamtröjor.se - Fotbollströjebutik
 
 ---
 
