@@ -62,10 +62,12 @@
 - **Vad:** Visa vad som byggts, få feedback
 - **Syfte:** Visa framsteg, justera planen
 
-**4. Sprint Retrospective**
+**4. Sprint Retrospective** *(Retrospective = Eftertanke/Reflektion/Utvärdering)*
 - **När:** Efter Sprint Review
-- **Vad:** Reflektera över processen
+- **Vad:** Reflektera över processen, utvärdera hur sprinten gick
 - **Frågor:** Vad gick bra? Vad gick dåligt? Vad ska vi förbättra?
+- **Syfte:** Lära av erfarenheter, bli bättre nästa sprint
+- *Minnesregel:* "Eftertanke för att bli bättre"
 
 ### Scrum Artifacts (3 st)
 *Artifacts = Artefakter/Dokument/Tavlor (viktiga saker i Scrum)*
