@@ -1,4 +1,4 @@
-# 🔄 Sprint Retrospective - Webbshop Projekt (A4-version)
+# 🔄 Sprint Retrospective - Webbshop Projekt
 
 **Grupp:** Grupp 8  
 **Kurs:** Arbetsmetodik för utvecklare 2  
