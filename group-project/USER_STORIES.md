@@ -1,4 +1,4 @@
-# 📖 User Stories - Webbshop Projekt (A4-version)
+# 📖 User Stories - Webbshop Projekt
 
 **Grupp:** Grupp 8  
 **Kurs:** Arbetsmetodik för utvecklare 2  
