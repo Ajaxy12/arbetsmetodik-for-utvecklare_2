@@ -17,7 +17,7 @@ Detta dokument beskriver designprocessen för webbshop-mockupen i Figma. Vi anv�
 ### 1. Globala Komponenter Först
 
 Vi började tillsammans med att skapa de globala komponenterna som skulle återanvändas på alla sidor:
-- **Header/Navigation** - Med logo, menyalternativ och ikoner (varukorg, användare, sök)
+- **Header/Navigation** - Med logo, menyalternativ och ikoner (varukorg, användare)
 
 Detta var viktigt eftersom dessa komponenter skulle vara konsekventa över hela webbplatsen och spara tid när vi byggde de individuella sidorna. Genom att börja med globala komponenter tillsammans säkerställde vi att alla var med på samma designbeslut från början.
 
