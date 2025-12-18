@@ -1,4 +1,4 @@
-# 👥 Personas - Webbshop Projekt (A4-version)
+# 👥 Personas - Webbshop Projekt
 
 **Grupp:** Grupp 8  
 **Kurs:** Arbetsmetodik för utvecklare 2  
