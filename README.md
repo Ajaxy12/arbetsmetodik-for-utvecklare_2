@@ -24,7 +24,9 @@
 
 ---
 
-## 2. Scrum - Ramverk för Agilt Arbete
+## 2. Scrum - Vad betyder det?
+
+**Scrum är ett enkelt ramverk/metod för att jobba i team och skapa produkter, särskilt inom programvaruutveckling. I Scrum delas arbetet upp i korta cykler som kallas sprints (ofta 1-4 veckor). Teamet planerar vad de ska göra, bygger och testar, visar resultatet, och reflekterar över hur de kan bli bättre till nästa gång. Scrum hjälper team att samarbeta, vara flexibla och snabbt anpassa sig när krav ändras.**
 
 ### Sprint = En arbetscykel
 - **Längd:** 1-4 veckor (vi hade 5-12 dagar)
