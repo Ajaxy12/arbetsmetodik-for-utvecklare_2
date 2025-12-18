@@ -9,15 +9,15 @@
 ## 📋 Översikt
 
 
-Vi har skapat tre personas för FootyShop - en webbshop för fotbollströjor. Alla tre personas använder samma plattform men har olika roller och behov.
+Vi har skapat tre personas för teamtröjor- en webbshop för fotbollströjor. Alla tre personas använder samma plattform men har olika roller och behov.
 
-**Webbshop:** FootyShop - Fotbollströjebutik
+**Webbshop:** teamtröjor- Fotbollströjebutik
 
 ---
 
 ## 👤 Persona 1: Oliver Ström - Butiksägaren
 
-**Ålder:** 39 år | **Roll:** Ägare av FootyShop | **Plats:** Stockholm
+**Ålder:** 39 år | **Roll:** Ägare av teamtröjor| **Plats:** Stockholm
 
 **Bakgrund:** Före detta fotbollsspelare, driver nu en webbutik med tröjor från sina favoritlag.
 
