@@ -1,7 +1,7 @@
 # 📝 Individuell Projektrapport (A4) – Arbetsmetodik för utvecklare 2
 
-**Student:** Amir Hemmatnia  
-**Grupp:** Grupp 8 (teamtröjor.se)  
+**Student:** Amir Hem
+**Grupp:** Grupp 8 (fotbollstrojor.se)  
 **Kurs:** Arbetsmetodik för utvecklare 2  
 **Datum:** 2025-12-18
 
@@ -9,7 +9,7 @@
 
 ## 📋 Sammanfattning
 
-I gruppprojektet skapade vi en **webbshop-mockup i Figma** för teamtröjor.se. Vi arbetade agilt med **Scrum-events** (planering, check-ins, review och retrospective), **user stories + personas**, och en **Kanban board i Trello** för att synliggöra ansvar och status. Projektet var planerat för **3 sprints**, men tack vare bättre kommunikation och tydligare fördelning i Sprint 2 slutförde vi allt på **2 sprints**.
+I gruppprojektet skapade vi en **webbshop-mockup i Figma** för fotbollstrojor.se. Vi arbetade agilt med **Scrum-events** (planering, check-ins, review och retrospective), **user stories + personas**, och en **Kanban board i Trello** för att synliggöra ansvar och status. Projektet var planerat för **3 sprints**, men tack vare bättre kommunikation och tydligare fördelning i Sprint 2 slutförde vi allt på **2 sprints**.
 
 **Resultat i korthet:** 3 personas, **21 user stories**, och **9 designade sidor**.
 
